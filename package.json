@@ -49,7 +49,7 @@
     "report-dir": "./coverage"
   },
   "dependencies": {
-    "@serverless/utils": "^5.2.0",
+    "@serverless/utils": "^5.9.0",
     "bestzip": "^2.2.0",
     "bluebird": "^3.7.2",
     "fs-extra": "^9.1.0",
