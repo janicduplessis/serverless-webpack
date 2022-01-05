@@ -57,7 +57,7 @@
     "is-builtin-module": "^3.1.0",
     "lodash": "^4.17.21",
     "interpret": "^2.2.0",
-    "jest-worker": "^27.0.2",
+    "jest-worker": "^27.4.6",
     "rechoir": "^0.7.0",
     "semver": "^7.3.5"
   },
